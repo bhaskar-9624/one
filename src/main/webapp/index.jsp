@@ -10,7 +10,7 @@
   <!-- Hero Section -->
   <header class="hero">
     <div class="hero-content">
-      <h1>Welcome to Home Appliances</h1>
+      <h1>Animal Park</h1>
       <p>Transforming spaces into your dream home</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
@@ -21,7 +21,8 @@
     <h2>Our Services</h2>
     <div class="service-cards">
       <div class="card">
-        <img src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1600&q=80" alt="Residential Design">
+        <img src="https://www.vecteezy.com/photo/42730459-lion-danger-animal-wildlife-nature-forest"
+     # https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1600&q=80" alt="Residential Design">
         <h3>Residential Design</h3>
         <p>We create beautiful and functional living spaces tailored to your needs.</p>
       </div>

@@ -438,7 +438,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 return;
             }
             
-            alert(`Order placed successfully! Total: ₹${totalAmount}\nThank you for choosing Manu's Restaurant!`);
+            alert(`Order placed successfully! Total: ₹${totalAmount}\nThank you for choosing Nresh's Restaurant!`);
             cart = [];
             updateCart();
             saveCartToLocalStorage();

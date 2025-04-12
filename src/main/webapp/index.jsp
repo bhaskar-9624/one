@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Manu's Restaurant - Authentic Indian Cuisine</title>
+    <title>Nresh's Restaurant - Authentic Indian Cuisine</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>Manu's Restaurant</h1>
+            <h1>Nresh's Restaurant</h1>
             <p>Experience the taste of authentic Indian cuisine</p>
         </div>
     </header>
@@ -50,14 +50,14 @@
         <div class="container">
             <div class="footer-content">
                 <div class="footer-section">
-                    <h3>Manu's Restaurant</h3>
+                    <h3>Nresh's Restaurant</h3>
                     <p>Bringing authentic Indian flavors to your table since 2010.</p>
                 </div>
                 <div class="footer-section">
                     <h3>Contact Us</h3>
                     <p><i class="fas fa-map-marker-alt"></i> 123 Spice Street, Food City</p>
                     <p><i class="fas fa-phone"></i> +91 9876543210</p>
-                    <p><i class="fas fa-envelope"></i> info@manusrestaurant.com</p>
+                    <p><i class="fas fa-envelope"></i> info@Nreshsrestaurant.com</p>
                 </div>
                 <div class="footer-section">
                     <h3>Opening Hours</h3>
@@ -66,7 +66,7 @@
                 </div>
             </div>
             <div class="copyright">
-                <p>&copy; 2023 Manu's Restaurant. All rights reserved.</p>
+                <p>&copy; 2023 Nresh's Restaurant. All rights reserved.</p>
             </div>
         </div>
     </footer>
